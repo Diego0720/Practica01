@@ -1,3 +1,7 @@
+/*Nombre : Diego David Alva Sandoval
+           codigo: U202420023*/
+
+
 #include <iostream>
 #include <cstdlib>      
 #include <vector>

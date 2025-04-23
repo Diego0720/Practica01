@@ -1,3 +1,6 @@
+/*Nombre : Diego David Alva Sandoval
+           codigo: U202420023*/
+
 #pragma once
 #ifndef OPCIONES_H
 #define OPCIONES_H
